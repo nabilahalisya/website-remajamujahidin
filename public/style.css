@@ -1,0 +1,35 @@
+h3 {
+    text-align: justify;
+}
+
+p {
+    text-align: justify;
+}
+
+#data {
+    margin-top: 100px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:active {
+    color: rgb(37, 135, 247);
+}
+
+.form-signin .form-floating:focus-within {
+    z-index: 2;
+}
+
+.form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
